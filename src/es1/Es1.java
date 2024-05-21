@@ -1,6 +1,6 @@
 package es1;
 
-public class es1 {
+public class Es1 {
     public static void main(String[] args) {
         System.out.println(pariDispari("ciao"));
         System.out.println(annoBisestile(2000));
